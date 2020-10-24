@@ -1,0 +1,6 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="NIM" type="AppleRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="NIMLib" TARGET_NAME="NIMSDK" CONFIG_NAME="Debug" SCHEME_NAME="NIM" RUN_TARGET_PROJECT_NAME="NIM" RUN_TARGET_NAME="NIM" MAKE_ACTIVE="TRUE">
+    <envs />
+    <method />
+  </configuration>
+</component>
