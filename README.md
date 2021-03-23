@@ -19,37 +19,37 @@
 
 截图<br/>
 <div>
-<img width="288" height=“490” src="https://github.com/cmdbug/ZChat/blob/master/screenshots/4.46.52.png"/>
-<img width="288" height="490" src="https://github.com/cmdbug/ZChat/blob/master/screenshots/4.41.40.png"/>
-<img width="288" height="490" src="https://github.com/cmdbug/ZChat/blob/master/screenshots/4.41.55.png"/>
+<img width="288" height=“490” src="./screenshots/4.46.52.png"/>
+<img width="288" height="490" src="./screenshots/4.41.40.png"/>
+<img width="288" height="490" src="./screenshots/4.41.55.png"/>
 </div>
 <div>
-<img width="288" height="490" src="https://github.com/cmdbug/ZChat/blob/master/screenshots/4.42.01.png"/>
-<img width="288" height="490" src="https://github.com/cmdbug/ZChat/blob/master/screenshots/4.37.07.png"/>
-<img width="288" height="490" src="https://github.com/cmdbug/ZChat/blob/master/screenshots/4.37.13.png"/>
+<img width="288" height="490" src="./screenshots/4.42.01.png"/>
+<img width="288" height="490" src="./screenshots/4.37.07.png"/>
+<img width="288" height="490" src="./screenshots/4.37.13.png"/>
 </div>
 <div>
-<img width="288" height="490" src="https://github.com/cmdbug/ZChat/blob/master/screenshots/4.38.00.png"/>
-<img width="288" height="490" src="https://github.com/cmdbug/ZChat/blob/master/screenshots/4.39.21.png"/>
-<img width="288" height="490" src="https://github.com/cmdbug/ZChat/blob/master/screenshots/4.40.09.png"/>
+<img width="288" height="490" src="./screenshots/4.38.00.png"/>
+<img width="288" height="490" src="./screenshots/4.39.21.png"/>
+<img width="288" height="490" src="./screenshots/4.40.09.png"/>
 </div>
 <div>
-<img width="288" height="490" src="https://github.com/cmdbug/ZChat/blob/master/screenshots/4.40.30.png"/>
-<img width="288" height="490" src="https://github.com/cmdbug/ZChat/blob/master/screenshots/4.41.09.png"/>
-<img width="288" height="490" src="https://github.com/cmdbug/ZChat/blob/master/screenshots/4.41.33.png"/>
+<img width="288" height="490" src="./screenshots/4.40.30.png"/>
+<img width="288" height="490" src="./screenshots/4.41.09.png"/>
+<img width="288" height="490" src="./screenshots/4.41.33.png"/>
 </div>
 <div>
-<img width="288" height="490" src="https://github.com/cmdbug/ZChat/blob/master/screenshots/4.42.07.png"/>
-<img width="288" height="490" src="https://github.com/cmdbug/ZChat/blob/master/screenshots/4.42.19.png"/>
-<img width="288" height="490" src="https://github.com/cmdbug/ZChat/blob/master/screenshots/4.42.34.png"/>
+<img width="288" height="490" src="./screenshots/4.42.07.png"/>
+<img width="288" height="490" src="./screenshots/4.42.19.png"/>
+<img width="288" height="490" src="./screenshots/4.42.34.png"/>
 </div>
 <div>
-<img width="288" height="490" src="https://github.com/cmdbug/ZChat/blob/master/screenshots/4.42.38.png"/>
-<img width="288" height="490" src="https://github.com/cmdbug/ZChat/blob/master/screenshots/4.42.51.png"/>
-<img width="288" height="490" src="https://github.com/cmdbug/ZChat/blob/master/screenshots/4.48.10.png"/>
+<img width="288" height="490" src="./screenshots/4.42.38.png"/>
+<img width="288" height="490" src="./screenshots/4.42.51.png"/>
+<img width="288" height="490" src="./screenshots/4.48.10.png"/>
 </div>
 <div>
-<img width="288" height="490" src="https://github.com/cmdbug/ZChat/blob/master/screenshots/4.44.37.png"/>
+<img width="288" height="490" src="./screenshots/4.44.37.png"/>
 </div>
 
 
